@@ -1,2 +1,2 @@
 # project-euler-python
-My Project Euler solutions written in Python.
+My Project Euler solutions in Python.
